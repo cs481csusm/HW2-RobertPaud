@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW2_RobertPaud</string>
+    <string name="bLine">Line</string>
+    <string name="bBar">Bar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
